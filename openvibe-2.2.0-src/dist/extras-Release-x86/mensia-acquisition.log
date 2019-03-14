@@ -1,0 +1,105 @@
+<pid=37792|tid=44436|sid=20190211144022|date=2019.02.11|time=14.40.22> [-------]
+<pid=37792|tid=44436|sid=20190211144022|date=2019.02.11|time=14.40.22> [  trace  ] Module [..\bin\libDSI-Windows-i386.dll] : 0x00000000 (utf16CompliantLoadLibrary raised error 126)
+<pid=37792|tid=44436|sid=20190211144022|date=2019.02.11|time=14.40.22> [  trace  ] Module [.\libDSI-Windows-i386.dll] : 0x00000000 (utf16CompliantLoadLibrary raised error 126)
+<pid=37792|tid=44436|sid=20190211144022|date=2019.02.11|time=14.40.22> [  trace  ] Module [C:\Users\Tristan\Downloads\libDSI-Windows-i386.dll] : 0x00000000 (utf16CompliantLoadLibrary raised error 126)
+<pid=37792|tid=44436|sid=20190211144022|date=2019.02.11|time=14.40.22> [  trace  ] Module [C:\Users\Tristan\libDSI-Windows-i386.dll] : 0x00000000 (utf16CompliantLoadLibrary raised error 126)
+<pid=37792|tid=44436|sid=20190211144022|date=2019.02.11|time=14.40.22> [  trace  ] Module [D:\Users\Tristan\Documents\\libDSI-Windows-i386.dll] : 0x00000000 (utf16CompliantLoadLibrary raised error 126)
+<pid=37792|tid=44436|sid=20190211144022|date=2019.02.11|time=14.40.22> [  trace  ] Module [D:\Users\Tristan\Desktop\\libDSI-Windows-i386.dll] : 0x00000000 (utf16CompliantLoadLibrary raised error 126)
+<pid=37792|tid=44436|sid=20190211144022|date=2019.02.11|time=14.40.22> [  trace  ] Module [C:\Users\Tristan\\libDSI-Windows-i386.dll] : 0x00000000 (utf16CompliantLoadLibrary raised error 126)
+<pid=37792|tid=44436|sid=20190211144022|date=2019.02.11|time=14.40.22> [  trace  ] Module [C:\Users\Tristan\AppData\Roaming\\libDSI-Windows-i386.dll] : 0x00000000 (utf16CompliantLoadLibrary raised error 126)
+<pid=37792|tid=44436|sid=20190211144022|date=2019.02.11|time=14.40.22> [  trace  ] Module [C:\Windows\system32\\libDSI-Windows-i386.dll] : 0x00000000 (utf16CompliantLoadLibrary raised error 126)
+<pid=37792|tid=44436|sid=20190211144022|date=2019.02.11|time=14.40.22> [  trace  ] Module [libDSI-Windows-i386.dll] : 0x0FCF0000
+<pid=37792|tid=44436|sid=20190211144022|date=2019.02.11|time=14.40.22> [  trace  ] Symbol [0x0FCF0000:DSI_Error] : 0x0FD09F10
+<pid=37792|tid=44436|sid=20190211144022|date=2019.02.11|time=14.40.22> [  trace  ] Symbol [0x0FCF0000:DSI_ClearError] : 0x0FD09F20
+<pid=37792|tid=44436|sid=20190211144022|date=2019.02.11|time=14.40.22> [  trace  ] Symbol [0x0FCF0000:DSI_GetAPIVersion] : 0x0FD0A660
+<pid=37792|tid=44436|sid=20190211144022|date=2019.02.11|time=14.40.22> [  trace  ] Symbol [0x0FCF0000:DSI_Headset_New] : 0x0FD0A700
+<pid=37792|tid=44436|sid=20190211144022|date=2019.02.11|time=14.40.22> [  trace  ] Symbol [0x0FCF0000:DSI_Headset_Delete] : 0x0FD0DB00
+<pid=37792|tid=44436|sid=20190211144022|date=2019.02.11|time=14.40.22> [  trace  ] Symbol [0x0FCF0000:DSI_Headset_SetVerbosity] : 0x0FD0A7D0
+<pid=37792|tid=44436|sid=20190211144022|date=2019.02.11|time=14.40.22> [  trace  ] Symbol [0x0FCF0000:DSI_Headset_SetSampleCallback] : 0x0FD0A870
+<pid=37792|tid=44436|sid=20190211144022|date=2019.02.11|time=14.40.22> [  trace  ] Symbol [0x0FCF0000:DSI_Headset_Connect] : 0x0FD0A8D0
+<pid=37792|tid=44436|sid=20190211144022|date=2019.02.11|time=14.40.22> [  trace  ] Symbol [0x0FCF0000:DSI_Headset_Disconnect] : 0x0FD0AB30
+<pid=37792|tid=44436|sid=20190211144022|date=2019.02.11|time=14.40.22> [  trace  ] Symbol [0x0FCF0000:DSI_Headset_IsConnected] : 0x0FD0A990
+<pid=37792|tid=44436|sid=20190211144022|date=2019.02.11|time=14.40.22> [  trace  ] Symbol [0x0FCF0000:DSI_Headset_SetTraditionalReference] : 0x0FD0ADF0
+<pid=37792|tid=44436|sid=20190211144022|date=2019.02.11|time=14.40.22> [  trace  ] Symbol [0x0FCF0000:DSI_Headset_GetChannelByIndex] : 0x0FD0B430
+<pid=37792|tid=44436|sid=20190211144022|date=2019.02.11|time=14.40.22> [  trace  ] Symbol [0x0FCF0000:DSI_Headset_GetNumberOfChannels] : 0x0FD0B370
+<pid=37792|tid=44436|sid=20190211144022|date=2019.02.11|time=14.40.22> [  trace  ] Symbol [0x0FCF0000:DSI_Headset_GetNumberOfBufferedSamples] : 0x0FD0B820
+<pid=37792|tid=44436|sid=20190211144022|date=2019.02.11|time=14.40.22> [  trace  ] Symbol [0x0FCF0000:DSI_Headset_Idle] : 0x0FD0B920
+<pid=37792|tid=44436|sid=20190211144022|date=2019.02.11|time=14.40.22> [  trace  ] Symbol [0x0FCF0000:DSI_Headset_GetBatteryLevel] : 0x0FD0BC70
+<pid=37792|tid=44436|sid=20190211144022|date=2019.02.11|time=14.40.22> [  trace  ] Symbol [0x0FCF0000:DSI_Headset_GetSerialNumber] : 0x0FD0BFA0
+<pid=37792|tid=44436|sid=20190211144022|date=2019.02.11|time=14.40.22> [  trace  ] Symbol [0x0FCF0000:DSI_Headset_GetSamplingRate] : 0x0FD0BFF0
+<pid=37792|tid=44436|sid=20190211144022|date=2019.02.11|time=14.40.22> [  trace  ] Symbol [0x0FCF0000:DSI_Headset_StartDataAcquisition] : 0x0FD0C200
+<pid=37792|tid=44436|sid=20190211144022|date=2019.02.11|time=14.40.22> [  trace  ] Symbol [0x0FCF0000:DSI_Headset_StopDataAcquisition] : 0x0FD0C280
+<pid=37792|tid=44436|sid=20190211144022|date=2019.02.11|time=14.40.22> [  trace  ] Symbol [0x0FCF0000:DSI_Headset_StartImpedanceDriver] : 0x0FD0C300
+<pid=37792|tid=44436|sid=20190211144022|date=2019.02.11|time=14.40.22> [  trace  ] Symbol [0x0FCF0000:DSI_Headset_StopImpedanceDriver] : 0x0FD0C380
+<pid=37792|tid=44436|sid=20190211144022|date=2019.02.11|time=14.40.22> [  trace  ] Symbol [0x0FCF0000:DSI_Channel_GetName] : 0x0FD0D160
+<pid=37792|tid=44436|sid=20190211144022|date=2019.02.11|time=14.40.22> [  trace  ] Symbol [0x0FCF0000:DSI_Channel_ReadBuffered] : 0x0FD0CEC0
+<pid=13944|tid=6668|sid=20190219112203|date=2019.02.19|time=11.22.03> [-------]
+<pid=13944|tid=6668|sid=20190219112203|date=2019.02.19|time=11.22.03> [  trace  ] Module [..\bin\libDSI-Windows-i386.dll] : 0x00000000 (utf16CompliantLoadLibrary raised error 126)
+<pid=13944|tid=6668|sid=20190219112203|date=2019.02.19|time=11.22.03> [  trace  ] Module [.\libDSI-Windows-i386.dll] : 0x00000000 (utf16CompliantLoadLibrary raised error 126)
+<pid=13944|tid=6668|sid=20190219112203|date=2019.02.19|time=11.22.03> [  trace  ] Module [C:\Users\Tristan\Downloads\libDSI-Windows-i386.dll] : 0x00000000 (utf16CompliantLoadLibrary raised error 126)
+<pid=13944|tid=6668|sid=20190219112203|date=2019.02.19|time=11.22.03> [  trace  ] Module [C:\Users\Tristan\libDSI-Windows-i386.dll] : 0x00000000 (utf16CompliantLoadLibrary raised error 126)
+<pid=13944|tid=6668|sid=20190219112203|date=2019.02.19|time=11.22.03> [  trace  ] Module [D:\Users\Tristan\Documents\\libDSI-Windows-i386.dll] : 0x00000000 (utf16CompliantLoadLibrary raised error 126)
+<pid=13944|tid=6668|sid=20190219112203|date=2019.02.19|time=11.22.03> [  trace  ] Module [D:\Users\Tristan\Desktop\\libDSI-Windows-i386.dll] : 0x00000000 (utf16CompliantLoadLibrary raised error 126)
+<pid=13944|tid=6668|sid=20190219112203|date=2019.02.19|time=11.22.03> [  trace  ] Module [C:\Users\Tristan\\libDSI-Windows-i386.dll] : 0x00000000 (utf16CompliantLoadLibrary raised error 126)
+<pid=13944|tid=6668|sid=20190219112203|date=2019.02.19|time=11.22.03> [  trace  ] Module [C:\Users\Tristan\AppData\Roaming\\libDSI-Windows-i386.dll] : 0x00000000 (utf16CompliantLoadLibrary raised error 126)
+<pid=13944|tid=6668|sid=20190219112203|date=2019.02.19|time=11.22.03> [  trace  ] Module [C:\Windows\system32\\libDSI-Windows-i386.dll] : 0x00000000 (utf16CompliantLoadLibrary raised error 126)
+<pid=13944|tid=6668|sid=20190219112203|date=2019.02.19|time=11.22.03> [  trace  ] Module [libDSI-Windows-i386.dll] : 0x0FA20000
+<pid=13944|tid=6668|sid=20190219112203|date=2019.02.19|time=11.22.03> [  trace  ] Symbol [0x0FA20000:DSI_Error] : 0x0FA39F10
+<pid=13944|tid=6668|sid=20190219112203|date=2019.02.19|time=11.22.03> [  trace  ] Symbol [0x0FA20000:DSI_ClearError] : 0x0FA39F20
+<pid=13944|tid=6668|sid=20190219112203|date=2019.02.19|time=11.22.03> [  trace  ] Symbol [0x0FA20000:DSI_GetAPIVersion] : 0x0FA3A660
+<pid=13944|tid=6668|sid=20190219112203|date=2019.02.19|time=11.22.03> [  trace  ] Symbol [0x0FA20000:DSI_Headset_New] : 0x0FA3A700
+<pid=13944|tid=6668|sid=20190219112203|date=2019.02.19|time=11.22.03> [  trace  ] Symbol [0x0FA20000:DSI_Headset_Delete] : 0x0FA3DB00
+<pid=13944|tid=6668|sid=20190219112203|date=2019.02.19|time=11.22.03> [  trace  ] Symbol [0x0FA20000:DSI_Headset_SetVerbosity] : 0x0FA3A7D0
+<pid=13944|tid=6668|sid=20190219112203|date=2019.02.19|time=11.22.03> [  trace  ] Symbol [0x0FA20000:DSI_Headset_SetSampleCallback] : 0x0FA3A870
+<pid=13944|tid=6668|sid=20190219112203|date=2019.02.19|time=11.22.03> [  trace  ] Symbol [0x0FA20000:DSI_Headset_Connect] : 0x0FA3A8D0
+<pid=13944|tid=6668|sid=20190219112203|date=2019.02.19|time=11.22.03> [  trace  ] Symbol [0x0FA20000:DSI_Headset_Disconnect] : 0x0FA3AB30
+<pid=13944|tid=6668|sid=20190219112203|date=2019.02.19|time=11.22.03> [  trace  ] Symbol [0x0FA20000:DSI_Headset_IsConnected] : 0x0FA3A990
+<pid=13944|tid=6668|sid=20190219112203|date=2019.02.19|time=11.22.03> [  trace  ] Symbol [0x0FA20000:DSI_Headset_SetTraditionalReference] : 0x0FA3ADF0
+<pid=13944|tid=6668|sid=20190219112203|date=2019.02.19|time=11.22.03> [  trace  ] Symbol [0x0FA20000:DSI_Headset_GetChannelByIndex] : 0x0FA3B430
+<pid=13944|tid=6668|sid=20190219112203|date=2019.02.19|time=11.22.03> [  trace  ] Symbol [0x0FA20000:DSI_Headset_GetNumberOfChannels] : 0x0FA3B370
+<pid=13944|tid=6668|sid=20190219112203|date=2019.02.19|time=11.22.03> [  trace  ] Symbol [0x0FA20000:DSI_Headset_GetNumberOfBufferedSamples] : 0x0FA3B820
+<pid=13944|tid=6668|sid=20190219112203|date=2019.02.19|time=11.22.03> [  trace  ] Symbol [0x0FA20000:DSI_Headset_Idle] : 0x0FA3B920
+<pid=13944|tid=6668|sid=20190219112203|date=2019.02.19|time=11.22.03> [  trace  ] Symbol [0x0FA20000:DSI_Headset_GetBatteryLevel] : 0x0FA3BC70
+<pid=13944|tid=6668|sid=20190219112203|date=2019.02.19|time=11.22.03> [  trace  ] Symbol [0x0FA20000:DSI_Headset_GetSerialNumber] : 0x0FA3BFA0
+<pid=13944|tid=6668|sid=20190219112203|date=2019.02.19|time=11.22.03> [  trace  ] Symbol [0x0FA20000:DSI_Headset_GetSamplingRate] : 0x0FA3BFF0
+<pid=13944|tid=6668|sid=20190219112203|date=2019.02.19|time=11.22.03> [  trace  ] Symbol [0x0FA20000:DSI_Headset_StartDataAcquisition] : 0x0FA3C200
+<pid=13944|tid=6668|sid=20190219112203|date=2019.02.19|time=11.22.03> [  trace  ] Symbol [0x0FA20000:DSI_Headset_StopDataAcquisition] : 0x0FA3C280
+<pid=13944|tid=6668|sid=20190219112203|date=2019.02.19|time=11.22.03> [  trace  ] Symbol [0x0FA20000:DSI_Headset_StartImpedanceDriver] : 0x0FA3C300
+<pid=13944|tid=6668|sid=20190219112203|date=2019.02.19|time=11.22.03> [  trace  ] Symbol [0x0FA20000:DSI_Headset_StopImpedanceDriver] : 0x0FA3C380
+<pid=13944|tid=6668|sid=20190219112203|date=2019.02.19|time=11.22.03> [  trace  ] Symbol [0x0FA20000:DSI_Channel_GetName] : 0x0FA3D160
+<pid=13944|tid=6668|sid=20190219112203|date=2019.02.19|time=11.22.03> [  trace  ] Symbol [0x0FA20000:DSI_Channel_ReadBuffered] : 0x0FA3CEC0
+<pid=16084|tid=13216|sid=20190222152825|date=2019.02.22|time=15.28.25> [-------]
+<pid=16084|tid=13216|sid=20190222152825|date=2019.02.22|time=15.28.25> [  trace  ] Module [..\bin\libDSI-Windows-i386.dll] : 0x00000000 (utf16CompliantLoadLibrary raised error 126)
+<pid=16084|tid=13216|sid=20190222152825|date=2019.02.22|time=15.28.25> [  trace  ] Module [.\libDSI-Windows-i386.dll] : 0x00000000 (utf16CompliantLoadLibrary raised error 126)
+<pid=16084|tid=13216|sid=20190222152825|date=2019.02.22|time=15.28.25> [  trace  ] Module [C:\Users\Tristan\Downloads\libDSI-Windows-i386.dll] : 0x00000000 (utf16CompliantLoadLibrary raised error 126)
+<pid=16084|tid=13216|sid=20190222152825|date=2019.02.22|time=15.28.25> [  trace  ] Module [C:\Users\Tristan\libDSI-Windows-i386.dll] : 0x00000000 (utf16CompliantLoadLibrary raised error 126)
+<pid=16084|tid=13216|sid=20190222152825|date=2019.02.22|time=15.28.25> [  trace  ] Module [D:\Users\Tristan\Documents\\libDSI-Windows-i386.dll] : 0x00000000 (utf16CompliantLoadLibrary raised error 126)
+<pid=16084|tid=13216|sid=20190222152825|date=2019.02.22|time=15.28.25> [  trace  ] Module [D:\Users\Tristan\Desktop\\libDSI-Windows-i386.dll] : 0x00000000 (utf16CompliantLoadLibrary raised error 126)
+<pid=16084|tid=13216|sid=20190222152825|date=2019.02.22|time=15.28.25> [  trace  ] Module [C:\Users\Tristan\\libDSI-Windows-i386.dll] : 0x00000000 (utf16CompliantLoadLibrary raised error 126)
+<pid=16084|tid=13216|sid=20190222152825|date=2019.02.22|time=15.28.25> [  trace  ] Module [C:\Users\Tristan\AppData\Roaming\\libDSI-Windows-i386.dll] : 0x00000000 (utf16CompliantLoadLibrary raised error 126)
+<pid=16084|tid=13216|sid=20190222152825|date=2019.02.22|time=15.28.25> [  trace  ] Module [C:\Windows\system32\\libDSI-Windows-i386.dll] : 0x00000000 (utf16CompliantLoadLibrary raised error 126)
+<pid=16084|tid=13216|sid=20190222152825|date=2019.02.22|time=15.28.25> [  trace  ] Module [libDSI-Windows-i386.dll] : 0x0F920000
+<pid=16084|tid=13216|sid=20190222152825|date=2019.02.22|time=15.28.25> [  trace  ] Symbol [0x0F920000:DSI_Error] : 0x0F939F10
+<pid=16084|tid=13216|sid=20190222152825|date=2019.02.22|time=15.28.25> [  trace  ] Symbol [0x0F920000:DSI_ClearError] : 0x0F939F20
+<pid=16084|tid=13216|sid=20190222152825|date=2019.02.22|time=15.28.25> [  trace  ] Symbol [0x0F920000:DSI_GetAPIVersion] : 0x0F93A660
+<pid=16084|tid=13216|sid=20190222152825|date=2019.02.22|time=15.28.25> [  trace  ] Symbol [0x0F920000:DSI_Headset_New] : 0x0F93A700
+<pid=16084|tid=13216|sid=20190222152825|date=2019.02.22|time=15.28.25> [  trace  ] Symbol [0x0F920000:DSI_Headset_Delete] : 0x0F93DB00
+<pid=16084|tid=13216|sid=20190222152825|date=2019.02.22|time=15.28.25> [  trace  ] Symbol [0x0F920000:DSI_Headset_SetVerbosity] : 0x0F93A7D0
+<pid=16084|tid=13216|sid=20190222152825|date=2019.02.22|time=15.28.25> [  trace  ] Symbol [0x0F920000:DSI_Headset_SetSampleCallback] : 0x0F93A870
+<pid=16084|tid=13216|sid=20190222152825|date=2019.02.22|time=15.28.25> [  trace  ] Symbol [0x0F920000:DSI_Headset_Connect] : 0x0F93A8D0
+<pid=16084|tid=13216|sid=20190222152825|date=2019.02.22|time=15.28.25> [  trace  ] Symbol [0x0F920000:DSI_Headset_Disconnect] : 0x0F93AB30
+<pid=16084|tid=13216|sid=20190222152825|date=2019.02.22|time=15.28.25> [  trace  ] Symbol [0x0F920000:DSI_Headset_IsConnected] : 0x0F93A990
+<pid=16084|tid=13216|sid=20190222152825|date=2019.02.22|time=15.28.25> [  trace  ] Symbol [0x0F920000:DSI_Headset_SetTraditionalReference] : 0x0F93ADF0
+<pid=16084|tid=13216|sid=20190222152825|date=2019.02.22|time=15.28.25> [  trace  ] Symbol [0x0F920000:DSI_Headset_GetChannelByIndex] : 0x0F93B430
+<pid=16084|tid=13216|sid=20190222152825|date=2019.02.22|time=15.28.25> [  trace  ] Symbol [0x0F920000:DSI_Headset_GetNumberOfChannels] : 0x0F93B370
+<pid=16084|tid=13216|sid=20190222152825|date=2019.02.22|time=15.28.25> [  trace  ] Symbol [0x0F920000:DSI_Headset_GetNumberOfBufferedSamples] : 0x0F93B820
+<pid=16084|tid=13216|sid=20190222152825|date=2019.02.22|time=15.28.25> [  trace  ] Symbol [0x0F920000:DSI_Headset_Idle] : 0x0F93B920
+<pid=16084|tid=13216|sid=20190222152825|date=2019.02.22|time=15.28.25> [  trace  ] Symbol [0x0F920000:DSI_Headset_GetBatteryLevel] : 0x0F93BC70
+<pid=16084|tid=13216|sid=20190222152825|date=2019.02.22|time=15.28.25> [  trace  ] Symbol [0x0F920000:DSI_Headset_GetSerialNumber] : 0x0F93BFA0
+<pid=16084|tid=13216|sid=20190222152825|date=2019.02.22|time=15.28.25> [  trace  ] Symbol [0x0F920000:DSI_Headset_GetSamplingRate] : 0x0F93BFF0
+<pid=16084|tid=13216|sid=20190222152825|date=2019.02.22|time=15.28.25> [  trace  ] Symbol [0x0F920000:DSI_Headset_StartDataAcquisition] : 0x0F93C200
+<pid=16084|tid=13216|sid=20190222152825|date=2019.02.22|time=15.28.25> [  trace  ] Symbol [0x0F920000:DSI_Headset_StopDataAcquisition] : 0x0F93C280
+<pid=16084|tid=13216|sid=20190222152825|date=2019.02.22|time=15.28.25> [  trace  ] Symbol [0x0F920000:DSI_Headset_StartImpedanceDriver] : 0x0F93C300
+<pid=16084|tid=13216|sid=20190222152825|date=2019.02.22|time=15.28.25> [  trace  ] Symbol [0x0F920000:DSI_Headset_StopImpedanceDriver] : 0x0F93C380
+<pid=16084|tid=13216|sid=20190222152825|date=2019.02.22|time=15.28.25> [  trace  ] Symbol [0x0F920000:DSI_Channel_GetName] : 0x0F93D160
+<pid=16084|tid=13216|sid=20190222152825|date=2019.02.22|time=15.28.25> [  trace  ] Symbol [0x0F920000:DSI_Channel_ReadBuffered] : 0x0F93CEC0

@@ -1,0 +1,26 @@
+PROJECT(test_accuracy)
+
+IF(WIN32)
+	ADD_DEFINITIONS(-DTARGET_OS_Windows)
+ENDIF(WIN32)
+IF(UNIX)
+	ADD_DEFINITIONS(-DTARGET_OS_Linux)
+ENDIF(UNIX)
+ADD_DEFINITIONS(-D_CRT_SECURE_NO_DEPRECATE)
+ADD_DEFINITIONS(-DTARGET_ARCHITECTURE_i386)
+	
+INCLUDE_DIRECTORIES(../src)
+ADD_EXECUTABLE(${PROJECT_NAME} test_accuracy.cpp)
+
+#INCLUDE("FindOpenViBE")
+
+# Unfortunately we need to install the tests as any application to find .dll/.so files
+# on both Windows and Linux.
+OV_INSTALL_LAUNCH_SCRIPT(SCRIPT_PREFIX "${PROJECT_NAME}" EXECUTABLE_NAME  "${PROJECT_NAME}")
+INSTALL(TARGETS ${PROJECT_NAME}
+	RUNTIME DESTINATION ${DIST_BINDIR}
+	LIBRARY DESTINATION ${DIST_LIBDIR}
+	ARCHIVE DESTINATION ${DIST_LIBDIR})
+
+#Install the signal file required for testing
+INSTALL(DIRECTORY ../../../../applications/demos/ssvep-demo/signals      DESTINATION ${DIST_DATADIR}/openvibe/scenarios/)
