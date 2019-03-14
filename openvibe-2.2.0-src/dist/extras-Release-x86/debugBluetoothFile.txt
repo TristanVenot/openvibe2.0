@@ -1,6 +1,0 @@
-2019-02-11T14:40:21:532 [BTA] Winsock lib loaded!
-2019-02-11T16:38:20:489 [BTA] closeBTSockets is OK
-2019-02-19T11:22:03:895 [BTA] Winsock lib loaded!
-2019-02-19T12:14:04:109 [BTA] closeBTSockets is OK
-2019-02-22T15:28:25:275 [BTA] Winsock lib loaded!
-2019-02-22T15:36:36:924 [BTA] closeBTSockets is OK

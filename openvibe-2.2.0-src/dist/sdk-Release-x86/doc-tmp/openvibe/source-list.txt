@@ -1,7 +1,0 @@
-D:/openvibe-2.2.0-src/sdk/modules/communication/include
-D:/openvibe-2.2.0-src/sdk/modules/csv/include
-D:/openvibe-2.2.0-src/sdk/modules/date/include
-D:/openvibe-2.2.0-src/sdk/modules/fs/include
-D:/openvibe-2.2.0-src/sdk/modules/socket/include
-D:/openvibe-2.2.0-src/sdk/modules/system/include
-D:/openvibe-2.2.0-src/sdk/modules/xml/include
